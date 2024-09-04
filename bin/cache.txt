@@ -1,0 +1,36 @@
+Please answer a question about the following headline: \
+"negative bets against gold surge, could be tipping point \"
+\n
+Does the news headline talk about price in the past? 
+No or Yes? 
+No
+\n\n
+Please answer a question about the following headline: 
+\"gold holds gains after december housing starts\"
+\n
+Does the news headline talk about price? 
+No or Yes? Yes
+\n\n
+Please answer a question about the following headline: \
+"gold price nearly triples during bernanke tenure: bespoke\"
+\n
+Does the news headline talk about price in the past? No or Yes? 
+Yes\n\nPlease answer a question about the following headline: \
+"gold futures down $3.90 at $1,244.80 an ounce\"\n
+Does the news headline talk about price in the future? 
+No or Yes? 
+No
+\n\n
+Please answer a question about the following headline: \
+"Gold futures rise to Rs 26,448 per 10 gm\"
+\n
+Does the news headline talk about price going up? 
+No or Yes? 
+Yes
+\n\n
+Please answer a question about the following headline: \
+"stocks rise depite weakness in oil, gold prices\"
+\n
+Does the news headline talk about price in the future? 
+No or Yes?
+        

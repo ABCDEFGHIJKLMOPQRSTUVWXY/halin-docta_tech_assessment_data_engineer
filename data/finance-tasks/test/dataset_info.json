@@ -1,0 +1,57 @@
+{
+  "builder_name": "json",
+  "citation": "",
+  "config_name": "Headline",
+  "dataset_name": "finance-tasks",
+  "dataset_size": 19336905,
+  "description": "",
+  "download_checksums": {
+    "hf://datasets/AdaptLLM/finance-tasks@feb595bfd2cd296a6161d1a987c10752e89b10e7/Headline/test.json": {
+      "num_bytes": 22439709,
+      "checksum": null
+    }
+  },
+  "download_size": 22439709,
+  "features": {
+    "options": {
+      "feature": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "_type": "Sequence"
+    },
+    "id": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "input": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "class_id": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "gold_index": {
+      "dtype": "int64",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 41776614,
+  "splits": {
+    "test": {
+      "name": "test",
+      "num_bytes": 19336905,
+      "num_examples": 20547,
+      "dataset_name": "finance-tasks"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}
